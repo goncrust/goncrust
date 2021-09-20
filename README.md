@@ -2,12 +2,12 @@
 
 <img align='right' src="https://static.wixstatic.com/media/367ecf_d3764227866c484c830b8ca8cc81c546~mv2.gif/v1/fit/w_174,h_173,q_90/367ecf_d3764227866c484c830b8ca8cc81c546~mv2.webp" width="230">
 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 - 🐃 Fighting for privacy and open source software
 - :man_technologist: I'm currently learning reverse engineering
 - ⚡ My favourite language is C++
-- 🔭 I love doing hacking and coding CTFs/challenges
+- 🔭 I like doing hacking and coding CTFs/challenges
 - 🎸 If I'm not ricing my distro, I'm probably gaming or playing guitar
 - <img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" width="19" height="16"> I use arch btw
 
