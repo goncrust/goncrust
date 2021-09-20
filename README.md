@@ -6,7 +6,7 @@
 
 - :man_technologist: I'm currently learning reverse engineering
 - <img src="https://image.emojipng.com/852/771852.jpg" width="19"> Fighting for privacy and open source software
-- <img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" width="19" height="16> I use arch btw
+- <img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" width="19" height="16"> I use arch btw
 
 
 <!--
