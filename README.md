@@ -4,7 +4,7 @@
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-- <img src="https://image.emojipng.com/852/771852.jpg" width="19"> Fighting for privacy and open source software
+- 🐃 Fighting for privacy and open source software
 - :man_technologist: I'm currently learning reverse engineering
 - ⚡ My favourite language is C++
 - 🔭 I love doing hacking and coding CTFs/challenges
