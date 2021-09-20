@@ -2,7 +2,7 @@
 
 <img align='right' src="https://static.wixstatic.com/media/367ecf_d3764227866c484c830b8ca8cc81c546~mv2.gif/v1/fit/w_174,h_173,q_90/367ecf_d3764227866c484c830b8ca8cc81c546~mv2.webp" width="230">
 
-I use arch btw<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" width="50">
+I use arch btw <img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" width="15">
 
 <!--
 **goncrust/goncrust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
