@@ -2,6 +2,10 @@
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
+- :man_technologist: I'm currently learning reverse engineering
+- <img src="https://image.emojipng.com/852/771852.jpg" width="19"> I fight for privacy and open source software
+
+
 <img align='right' src="https://static.wixstatic.com/media/367ecf_d3764227866c484c830b8ca8cc81c546~mv2.gif/v1/fit/w_174,h_173,q_90/367ecf_d3764227866c484c830b8ca8cc81c546~mv2.webp" width="230">
 
 I use arch btw <img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" width="19">
