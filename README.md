@@ -7,12 +7,12 @@
 - 🐃 Fighting for privacy and open source software
 - :man_technologist: I'm currently learning reverse engineering
 - ⚡ My favourite language is C++
-- 🔭 I like doing hacking and coding CTFs/challenges
+- 🔭 I like doing hacking and coding CTFs/challenges (still a newbie but practicing)
 - 🔢 Math is my thing
 - 🎸 If I'm not ricing my distro, I'm probably gaming or playing guitar
 - <img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" width="19" height="16"> I use arch btw
 
-
+[SchoolProjects](https://github.com/goncrust/SchoolProjects) - To avoid fraud this repo becomes private while a project for evaluation is ongoing.
 <!--
 **goncrust/goncrust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
