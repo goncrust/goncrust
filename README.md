@@ -1,4 +1,4 @@
-## Hi, I'm goncrust 👋
+## Hi, I'm g0ncrust 👋
 
 <img align='right' src="https://static.wixstatic.com/media/367ecf_d3764227866c484c830b8ca8cc81c546~mv2.gif/v1/fit/w_174,h_173,q_90/367ecf_d3764227866c484c830b8ca8cc81c546~mv2.webp" width="230">
 
