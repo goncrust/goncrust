@@ -11,7 +11,7 @@
 
 ## Info
 
-[SchoolProjects](https://github.com/goncrust/SchoolProjects) - To avoid fraud this repo becomes private while a project for evaluation is ongoing.
+- [SchoolProjects](https://github.com/goncrust/SchoolProjects) - to avoid fraud this repo becomes private while a project for evaluation is ongoing
 <!--
 **goncrust/goncrust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
