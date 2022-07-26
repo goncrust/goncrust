@@ -4,8 +4,9 @@
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
+- <img src="https://raw.githubusercontent.com/goncrust/goncrust/main/IST_Logo.png" width="14" height="18"> Computer Science and Engineering Student @ Instituto Superior Técnico
 - ⚡ My favourite language is **C++**
-- :man_technologist: I'm currently studying **OpenGL** and learning **Web Dev**
+- :man_technologist: I'm currently self-teaching **OpenGL** and **Web Dev**
 - <img src="https://raw.githubusercontent.com/goncrust/goncrust/main/arch.svg" width="19" height="16"> I use arch btw
 
 ### Skills
