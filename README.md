@@ -1,6 +1,6 @@
 ## Hi, I'm Gonçalo 👋
 
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=goncrust&layout=compact&theme=blueberry&hide_border=true" width="300">
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=goncrust&layout=compact&theme=blueberry&hide_border=true" width="350">
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
