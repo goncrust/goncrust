@@ -11,7 +11,7 @@
 
 ### Skills
 
-<img align='left' src="https://skillicons.dev/icons?i=linux,c,cpp,java,py,git,vim,arduino,raspberrypi" width="450">
+<img align='left' src="https://skillicons.dev/icons?i=linux,c,cpp,java,py,git,vim,arduino,raspberrypi" width="500">
 
 <br></br>
 
