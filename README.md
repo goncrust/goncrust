@@ -1,6 +1,6 @@
 ## Hi, I'm Gonçalo 👋
 
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=goncrust&layout=compact&theme=blueberry&hide_border=true" width="350">
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=goncrust&layout=compact&theme=blueberry&hide_border=true" width="400">
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
@@ -10,7 +10,9 @@
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=linux,c,cpp,java,py,git,vim,arduino,raspberrypi)](https://skillicons.dev)
+<img align='left' src="https://skillicons.dev/icons?i=linux,c,cpp,java,py,git,vim,arduino,raspberrypi" width="450">
+
+<br></br>
 
 <details>
   <summary>Additional Info</summary>
@@ -21,6 +23,8 @@
 
 
 <!---
+
+[![My Skills](https://skillicons.dev/icons?i=linux,c,cpp,java,py,git,vim,arduino,raspberrypi)](https://skillicons.dev)
 <img align='right' src="https://raw.githubusercontent.com/goncrust/goncrust/main/mario.gif" width="230">
 
 ### Working on
