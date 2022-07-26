@@ -9,7 +9,7 @@
 - :man_technologist: I'm currently self-teaching **OpenGL** and **Web Dev**
 - <img src="https://raw.githubusercontent.com/goncrust/goncrust/main/arch.svg" width="19" height="16"> I use arch btw
 
-### Skills
+## Skills
 
 <img align='left' src="https://skillicons.dev/icons?i=linux,c,cpp,java,py,git,vim,arduino,raspberrypi" width="500">
 
