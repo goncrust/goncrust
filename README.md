@@ -11,8 +11,9 @@
 
 ## Skills
 
-<img align='left' src="https://skillicons.dev/icons?i=linux,c,cpp,java,py,git,vim,arduino,raspberrypi" width="500">
+<img align='left' src="https://skillicons.dev/icons?i=linux,c,cpp,java,py,git,vim,arduino,raspberrypi,html,css,js&perline=9" width="500">
 
+<br></br>
 <br></br>
 
 <details>
@@ -24,11 +25,9 @@
 
 
 <!---
-
-[![My Skills](https://skillicons.dev/icons?i=linux,c,cpp,java,py,git,vim,arduino,raspberrypi)](https://skillicons.dev)
 <img align='right' src="https://raw.githubusercontent.com/goncrust/goncrust/main/mario.gif" width="230">
 
 ### Working on
 
-[![My Skills](https://skillicons.dev/icons?i=blender,docker,gtk,html,js,unreal,kubernetes,bots,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,react,docker,blender,gtk,unreal,kubernetes,bots,sqlite)](https://skillicons.dev)
 -->
