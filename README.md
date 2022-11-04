@@ -15,17 +15,18 @@
 
 <br></br>
 <br></br>
-<br></br>
 
+### Additional Info
+
+- [SchoolProjects](https://github.com/goncrust/SchoolProjects) - to avoid fraud this repo becomes private while a project for evaluation is ongoing
+
+<!---
 <details>
   <summary>Additional Info</summary>
   
   - [SchoolProjects](https://github.com/goncrust/SchoolProjects) - to avoid fraud this repo becomes private while a project for evaluation is ongoing
 </details>
 
-
-
-<!---
 <img align='right' src="https://raw.githubusercontent.com/goncrust/goncrust/main/mario.gif" width="230">
 
 ### Working on
