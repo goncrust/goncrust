@@ -17,10 +17,6 @@
 <br></br>
 <br></br>
 
-### Additional Info
-
-- [SchoolProjects](https://github.com/goncrust/SchoolProjects) - to avoid fraud this repo becomes private while a project for evaluation is ongoing
-
 <!---
 <details>
   <summary>Additional Info</summary>
